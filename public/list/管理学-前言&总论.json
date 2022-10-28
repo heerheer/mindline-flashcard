@@ -1,0 +1,1341 @@
+{
+    "subjects": {
+        "objectClass": "NSArray",
+        "0": {
+            "objectClass": "NSDictionary",
+            "ID": "181FU",
+            "root": {
+                "ID": "F1IEL",
+                "rootPoint": {
+                    "objectClass": "CGPoint",
+                    "x": 1231.5,
+                    "y": 1114.5
+                },
+                "children2": {
+                    "1": {
+                        "isLeft": true,
+                        "ID": "35HM2",
+                        "markType": 1026,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "isLeft": true,
+                                "ID": "H7RXX",
+                                "markType": 1004,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "4W4KJ",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "适度管理、适度组合"
+                                    }
+                                },
+                                "text": "适度原理"
+                            },
+                            "1": {
+                                "isLeft": true,
+                                "ID": "PXKSX",
+                                "markType": 1002,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "ID": "8S8KK",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "静态系统\/动态系统"
+                                    },
+                                    "1": {
+                                        "ID": "IMHY1",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "自然系统\/人造系统"
+                                    },
+                                    "4": {
+                                        "isLeft": true,
+                                        "ID": "VM0YQ",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "3": {
+                                                "ID": "V8W64",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "与外部环境的互动性"
+                                            },
+                                            "1": {
+                                                "ID": "1U2FU",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "相关性"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "MBD75",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "整体性"
+                                            },
+                                            "2": {
+                                                "ID": "0I4M3",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "有序性"
+                                            }
+                                        },
+                                        "text": "共同的特征"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "remark": "若干相互依存、相互作用的要素或则子系统组合而成的具有特定功能的有机整体",
+                                        "ID": "UFRL8",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "系统的概念"
+                                    },
+                                    "2": {
+                                        "ID": "57ANF",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "封闭系统\/开放系统"
+                                    }
+                                },
+                                "text": "系统原理"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "isLeft": true,
+                                "ID": "PAD8E",
+                                "markType": 1001,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "remark": "被管理者参与管理、人性化管理",
+                                        "ID": "32LX2",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "依靠人的管理"
+                                    },
+                                    "1": {
+                                        "remark": "为人服务、共享管理成果",
+                                        "ID": "L0GW4",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "为了人的管理"
+                                    }
+                                },
+                                "text": "人本原理"
+                            },
+                            "2": {
+                                "isLeft": true,
+                                "ID": "7F810",
+                                "markType": 1003,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "IQNJ8",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "用正确的方法做正确的事"
+                                    }
+                                },
+                                "text": "效益原理"
+                            }
+                        },
+                        "text": "管理的基本原理"
+                    },
+                    "objectClass": "NSArray",
+                    "0": {
+                        "isLeft": true,
+                        "ID": "234A1",
+                        "markType": 1027,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "isLeft": true,
+                                "ID": "YKKW0",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "isLeft": true,
+                                        "ID": "5X6V0",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "D335G",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "资源利用->时代背景下的技术->不同特征"
+                                            },
+                                            "1": {
+                                                "ID": "C50M4",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "人的关系的协调；受社会制度、主题性质的差异影响"
+                                            }
+                                        },
+                                        "text": "自然属性与社会属性"
+                                    },
+                                    "1": {
+                                        "ID": "Q634F",
+                                        "markType": 1014,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "本质是对人的行为进行协调"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "isLeft": true,
+                                        "ID": "85YB7",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "R3260",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "选择对的人去做对的事"
+                                            },
+                                            "1": {
+                                                "ID": "IWMN8",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "管理者的成果取决于：识人和用人能力"
+                                            }
+                                        },
+                                        "text": "对人或对人的行为的管理"
+                                    },
+                                    "2": {
+                                        "ID": "R1D3A",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "既是科学又是艺术"
+                                    }
+                                },
+                                "text": "本质 "
+                            },
+                            "1": {
+                                "isLeft": true,
+                                "ID": "M0QS1",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "ID": "4327X",
+                                        "maxWidthLine": 271.5,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "管理是一个多阶段、多项工作的过程"
+                                    },
+                                    "1": {
+                                        "ID": "0E8X1",
+                                        "style": "[{\"key\":\"bold\",\"start\":0,\"end\":2}]",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "主体是管理者"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "FJ1F0",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "目的是有效实现组织目标"
+                                    },
+                                    "2": {
+                                        "ID": "23L1C",
+                                        "maxWidthLine": 222.5,
+                                        "style": "[{\"key\":\"bold\",\"start\":0,\"end\":2}]",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "客体是组织活动及其参与要素"
+                                    }
+                                },
+                                "text": "基本特征"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "remark": "管理就是为了有效实现组织目标，管理者利用相关知识、技术和方法，对组织活动进行决策、组织、领导、控制并不断创新的过程",
+                                "ID": "T520S",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "概念"
+                            },
+                            "2": {
+                                "isLeft": true,
+                                "ID": "O5FGR",
+                                "markType": 1020,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "remark": "保证组织系统按照预定要求运作的一系列工作",
+                                        "ID": "6SSV3",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "控制"
+                                    },
+                                    "1": {
+                                        "remark": "组织是为了保证决策活动的有效实施，管理者根据目标活动的要求设计合理的组织。",
+                                        "ID": "3UTOU",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "组织"
+                                    },
+                                    "4": {
+                                        "ID": "M170V",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "创新"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "remark": "决策是组织在未来众多的行动可能中选择一个比较合理的方案",
+                                        "isLeft": true,
+                                        "remarkDisplay": true,
+                                        "children": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "MW440",
+                                                "maxWidthLine": 336.5,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "将决策目标分解到组织的各个部门和缓解，对每个单位、每个成员的工作提出具体要求"
+                                            }
+                                        },
+                                        "text": "决策",
+                                        "objectClass": "MindNode",
+                                        "ID": "1JY85",
+                                        "linkPaths": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "3UTOU",
+                                                "ctrlPoint": {
+                                                    "objectClass": "CGPoint",
+                                                    "x": -269.8708007303012,
+                                                    "y": 69.068475973190289
+                                                },
+                                                "objectClass": "NodeLinkPath",
+                                                "text": "前提"
+                                            }
+                                        }
+                                    },
+                                    "2": {
+                                        "remark": "安排岗位、提高士气与热情到组织活动中去。",
+                                        "ID": "52BDD",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "领导"
+                                    }
+                                },
+                                "text": "内容（五大职能）"
+                            }
+                        },
+                        "text": "管理的内涵"
+                    },
+                    "2": {
+                        "isLeft": true,
+                        "ID": "D37K2",
+                        "markType": 1027,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "ID": "358F1",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "理性分析"
+                            },
+                            "1": {
+                                "ID": "G8CRS",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "直觉判断"
+                            }
+                        },
+                        "text": "管理的基本方法"
+                    }
+                },
+                "objectClass": "MindNode",
+                "children": {
+                    "objectClass": "NSArray",
+                    "0": {
+                        "ID": "V3I66",
+                        "markType": 1025,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "remark": "特殊的社会经济组织",
+                                "ID": "0NVUL",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "1": {
+                                        "ID": "3L5LO",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "remark": "生产制造的过程",
+                                                "ID": "8BPC5",
+                                                "remarkDisplay": true,
+                                                "objectClass": "MindNode",
+                                                "text": "资源转换"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "remark": "生产经营的基本工作：人力、物资、财务",
+                                                "ID": "21282",
+                                                "remarkDisplay": true,
+                                                "objectClass": "MindNode",
+                                                "text": "资源筹措"
+                                            },
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "产品销售\/成果处理",
+                                                "ID": "6R64T"
+                                            }
+                                        },
+                                        "text": "经济活动"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "remark": "根据市场反映的社会需要来组织和安排某种商品（物质与非物质）的生产和交换的社会经济单位",
+                                        "ID": "VE7AR",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "text": "概念"
+                                    },
+                                    "2": {
+                                        "ID": "EGE24",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "ID": "EYY31",
+                                                "maxWidthLine": 222.5,
+                                                "objectClass": "MindNode",
+                                                "text": "内部活动的成功需要外部实现"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "所需借助的资源：稀缺",
+                                                "ID": "JS5OK"
+                                            },
+                                            "2": {
+                                                "ID": "CBH7W",
+                                                "maxWidthLine": 255,
+                                                "objectClass": "MindNode",
+                                                "text": "制造过程：生产者的联合劳动过程"
+                                            }
+                                        },
+                                        "text": "经济活动的进行背景"
+                                    }
+                                },
+                                "text": "企业"
+                            },
+                            "1": {
+                                "ID": "U1K0I",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "objectClass": "MindNode",
+                                        "text": "一定程度上独立存在",
+                                        "ID": "Y7YKM"
+                                    },
+                                    "1": {
+                                        "ID": "01C76",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "CV2HN",
+                                                "maxWidthLine": 304,
+                                                "objectClass": "MindNode",
+                                                "text": "实现共同目标是实现个人目标的基本前提"
+                                            }
+                                        },
+                                        "text": "具有明确的目标"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "402Q8",
+                                        "maxWidthLine": 234.5,
+                                        "objectClass": "MindNode",
+                                        "text": "两个或两个以上的成员构成的。"
+                                    },
+                                    "2": {
+                                        "ID": "2UNFS",
+                                        "objectClass": "MindNode",
+                                        "linkPaths": {
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "O17UQ",
+                                                "ctrlPoint": {
+                                                    "objectClass": "CGPoint",
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "objectClass": "NodeLinkPath",
+                                                "text": ""
+                                            }
+                                        },
+                                        "text": "有特殊的活动"
+                                    }
+                                },
+                                "text": "组织的特征"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "remark": "一群人的一种相对稳定的集合。若干人组成的集合体，如果在一定时期内相对固定集中在一起从事某种活动，就会形成某种社会组织。",
+                                "ID": "6JG3Y",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "remark": "一群人为了实现某个共同目标而结合起来协同行动的集合体。",
+                                        "ID": "B3NXS",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "text": "定义"
+                                    }
+                                },
+                                "text": "组织的概念"
+                            },
+                            "2": {
+                                "remark": "人与物的组合及变化的过程",
+                                "ID": "O17UQ",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "text": "组织活动的实质"
+                            }
+                        },
+                        "text": "组织内涵"
+                    },
+                    "1": {
+                        "ID": "64QL2",
+                        "markType": 1033,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "objectClass": "MindNode",
+                                "text": "权力",
+                                "ID": "KH065"
+                            },
+                            "1": {
+                                "remark": "后续组织部分详细介绍",
+                                "ID": "5671G",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "text": "组织文化"
+                            }
+                        },
+                        "text": "管理的基本工具"
+                    }
+                },
+                "text": "总论"
+            }
+        },
+        "1": {
+            "ID": "L5XOT",
+            "objectClass": "NSDictionary",
+            "root": {
+                "ID": "5ICO3",
+                "rootPoint": {
+                    "objectClass": "CGPoint",
+                    "x": 998.5,
+                    "y": 1443.5
+                },
+                "children2": {
+                    "objectClass": "NSArray",
+                    "0": {
+                        "isLeft": true,
+                        "rootPoint": {
+                            "objectClass": "CGPoint",
+                            "x": 244,
+                            "y": 467
+                        },
+                        "lineColor": "#8B6914",
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "isLeft": true,
+                                "ID": "S73SV",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "M652D",
+                                        "maxWidthLine": 304,
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "组织结构、行为特征变现高程度的相似性"
+                                    },
+                                    "1": {
+                                        "isLeft": true,
+                                        "ID": "RV3U4",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "ID": "F36O0",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "模仿机制"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "3AJ5Q",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "强迫性机制"
+                                            },
+                                            "2": {
+                                                "ID": "7RQ7W",
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "社会规范机制"
+                                            }
+                                        },
+                                        "text": "合法性机制"
+                                    }
+                                },
+                                "text": "新制度学派：组织趋同理论"
+                            },
+                            "1": {
+                                "remark": "针对流程的基本问题进行反思，并对他进行彻底的重新设计",
+                                "isLeft": true,
+                                "remarkDisplay": true,
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "343UE",
+                                        "objectClass": "MindNode",
+                                        "isLeft": true,
+                                        "text": "七个原则"
+                                    },
+                                    "1": {
+                                        "isLeft": true,
+                                        "ID": "S0FRV",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "3": {
+                                                "ID": "5108B",
+                                                "markType": 1004,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "试点和切换"
+                                            },
+                                            "1": {
+                                                "lineColor": "#26BBFF",
+                                                "ID": "KFQJI",
+                                                "markType": 1002,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "流程再造"
+                                            },
+                                            "4": {
+                                                "ID": "Q68RG",
+                                                "markType": 1005,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "实现愿景目标"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "7C472",
+                                                "markType": 1001,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "观念再造"
+                                            },
+                                            "2": {
+                                                "ID": "A6354",
+                                                "markType": 1003,
+                                                "objectClass": "MindNode",
+                                                "isLeft": true,
+                                                "text": "组织再造"
+                                            }
+                                        },
+                                        "text": "过程"
+                                    }
+                                },
+                                "text": "企业再造理论BPR",
+                                "objectClass": "MindNode",
+                                "ID": "CT102"
+                            }
+                        },
+                        "text": "当代管理理论",
+                        "objectClass": "MindNode",
+                        "ID": "L067A"
+                    }
+                },
+                "objectClass": "MindNode",
+                "children": {
+                    "objectClass": "NSArray",
+                    "0": {
+                        "ID": "U6CT2",
+                        "objectClass": "MindNode",
+                        "children": {
+                            "1": {
+                                "ID": "U25D6",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "1": {
+                                        "ID": "61I20",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "10": {
+                                                "objectClass": "MindNode",
+                                                "text": "公平",
+                                                "ID": "6OYT4"
+                                            },
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "纪律",
+                                                "ID": "6XH3L"
+                                            },
+                                            "3": {
+                                                "objectClass": "MindNode",
+                                                "text": "统一指挥",
+                                                "ID": "TY2CY"
+                                            },
+                                            "11": {
+                                                "objectClass": "MindNode",
+                                                "text": "人员稳定",
+                                                "ID": "6I8W2"
+                                            },
+                                            "4": {
+                                                "objectClass": "MindNode",
+                                                "text": "统一领导",
+                                                "ID": "U274E"
+                                            },
+                                            "5": {
+                                                "objectClass": "MindNode",
+                                                "text": "个人利益服从整体利益",
+                                                "ID": "8N4Y8"
+                                            },
+                                            "12": {
+                                                "objectClass": "MindNode",
+                                                "text": "首创精神",
+                                                "ID": "17B20"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "6": {
+                                                "objectClass": "MindNode",
+                                                "text": "人员的报酬",
+                                                "ID": "58SEJ"
+                                            },
+                                            "13": {
+                                                "objectClass": "MindNode",
+                                                "text": "人员团结",
+                                                "ID": "81GGD"
+                                            },
+                                            "7": {
+                                                "objectClass": "MindNode",
+                                                "text": "集中",
+                                                "ID": "X48CD"
+                                            },
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "劳动分工",
+                                                "ID": "V1YF0"
+                                            },
+                                            "8": {
+                                                "objectClass": "MindNode",
+                                                "text": "等级制度",
+                                                "ID": "P5EAN"
+                                            },
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "权力和责任",
+                                                "ID": "WWNH8"
+                                            },
+                                            "9": {
+                                                "objectClass": "MindNode",
+                                                "text": "秩序",
+                                                "ID": "QGCS4"
+                                            }
+                                        },
+                                        "text": "管理的原则（14条原则）"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "objectClass": "MindNode",
+                                        "text": "经营与管理",
+                                        "ID": "861U2"
+                                    },
+                                    "2": {
+                                        "remark": "计划、组织、指挥、协调、控制",
+                                        "ID": "3038B",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "text": "管理要素"
+                                    }
+                                },
+                                "text": "法约尔：一般管理理论"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "remark": "泰勒本身是工程师，所以站在了工程技术人员的角度上",
+                                "ID": "SU50E",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "1": {
+                                        "ID": "815L6",
+                                        "maxWidthLine": 238.5,
+                                        "markType": 1002,
+                                        "objectClass": "MindNode",
+                                        "text": "改进分配方法，差别计件工资制"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "872KG",
+                                        "maxWidthLine": 336.5,
+                                        "markType": 1001,
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "标准化作业条件环境💐",
+                                                "ID": "QA52P"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "改进操作方法🔧",
+                                                "ID": "T13I8"
+                                            },
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "挑选培训工人👷‍♀️",
+                                                "ID": "137RM"
+                                            }
+                                        },
+                                        "text": "改进工作方法，根据工作要求挑选和培训工人"
+                                    },
+                                    "2": {
+                                        "ID": "YKEI8",
+                                        "maxWidthLine": 222.5,
+                                        "markType": 1003,
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "职能工长制",
+                                                "ID": "78D84"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "ID": "74EDA",
+                                                "maxWidthLine": 271.5,
+                                                "objectClass": "MindNode",
+                                                "text": "分开计划与组织部门：设立计划部门"
+                                            },
+                                            "2": {
+                                                "remark": "上级主管保留对例外、重要问题的决策与监督权",
+                                                "ID": "73DO0",
+                                                "remarkDisplay": true,
+                                                "objectClass": "MindNode",
+                                                "text": "例外管理"
+                                            }
+                                        },
+                                        "text": "改进生产组织、加强企业管理"
+                                    }
+                                },
+                                "text": "泰勒：科学管理理论"
+                            },
+                            "2": {
+                                "remark": "最理想化的管理理论",
+                                "ID": "84DU4",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "objectClass": "MindNode",
+                                        "text": "官僚",
+                                        "ID": "GA1XW"
+                                    },
+                                    "1": {
+                                        "ID": "X8D1D",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "个人魅力型",
+                                                "ID": "XRWJ7"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "传统型",
+                                                "ID": "DN14M"
+                                            },
+                                            "2": {
+                                                "ID": "X8M28",
+                                                "markType": 1025,
+                                                "objectClass": "MindNode",
+                                                "children": {
+                                                    "3": {
+                                                        "objectClass": "MindNode",
+                                                        "text": "权力有明确规定",
+                                                        "ID": "WL6N5"
+                                                    },
+                                                    "1": {
+                                                        "objectClass": "MindNode",
+                                                        "text": "合理性",
+                                                        "ID": "D37KE"
+                                                    },
+                                                    "objectClass": "NSArray",
+                                                    "0": {
+                                                        "objectClass": "MindNode",
+                                                        "text": "管理的连续性",
+                                                        "ID": "SV457"
+                                                    },
+                                                    "2": {
+                                                        "objectClass": "MindNode",
+                                                        "text": "借助法律手段",
+                                                        "ID": "72S4A"
+                                                    }
+                                                },
+                                                "text": "法理型"
+                                            }
+                                        },
+                                        "text": "三种权力"
+                                    }
+                                },
+                                "text": "韦伯：科层组织研究"
+                            }
+                        },
+                        "text": "古典管理理论"
+                    },
+                    "1": {
+                        "ID": "121V4",
+                        "objectClass": "MindNode",
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "ID": "P850M",
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "3": {
+                                        "objectClass": "MindNode",
+                                        "text": "程序化决策与非程序化决策",
+                                        "ID": "TBXJK"
+                                    },
+                                    "1": {
+                                        "ID": "8I38U",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "3": {
+                                                "objectClass": "MindNode",
+                                                "text": "审查活动",
+                                                "ID": "TO5PX"
+                                            },
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "设计活动",
+                                                "ID": "QS0US"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "情报活动",
+                                                "ID": "IMS61"
+                                            },
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "抉择活动",
+                                                "ID": "R64J6"
+                                            }
+                                        },
+                                        "text": "决策四阶段"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "17GIA",
+                                        "maxWidthLine": 304,
+                                        "objectClass": "MindNode",
+                                        "text": "管理就是决策，决策贯穿于整个管理过程"
+                                    },
+                                    "2": {
+                                        "remark": "满意原则",
+                                        "ID": "RP606",
+                                        "remarkDisplay": true,
+                                        "objectClass": "MindNode",
+                                        "text": "决策的准则"
+                                    }
+                                },
+                                "text": "西蒙：决策理论"
+                            },
+                            "1": {
+                                "ID": "G2651",
+                                "maxWidthLine": 238.5,
+                                "objectClass": "MindNode",
+                                "children": {
+                                    "1": {
+                                        "ID": "Y383Q",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "3": {
+                                                "objectClass": "MindNode",
+                                                "text": "技术官僚",
+                                                "ID": "63R32"
+                                            },
+                                            "4": {
+                                                "objectClass": "MindNode",
+                                                "text": "支援幕僚",
+                                                "ID": "85IF6"
+                                            },
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "战略高层",
+                                                "ID": "487JN"
+                                            },
+                                            "5": {
+                                                "objectClass": "MindNode",
+                                                "text": "组织文化",
+                                                "ID": "NB700"
+                                            },
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "直线中层",
+                                                "ID": "0I5J4"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "工作核心层（基层）",
+                                                "ID": "O55JQ"
+                                            }
+                                        },
+                                        "text": "组织的六个基本构成"
+                                    },
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "H162S",
+                                        "objectClass": "MindNode",
+                                        "children": {
+                                            "3": {
+                                                "objectClass": "MindNode",
+                                                "text": "结果标准化",
+                                                "ID": "67HUM"
+                                            },
+                                            "4": {
+                                                "objectClass": "MindNode",
+                                                "text": "知识标准化",
+                                                "ID": "K620N"
+                                            },
+                                            "0": {
+                                                "objectClass": "MindNode",
+                                                "text": "相互调试",
+                                                "ID": "GOHWT"
+                                            },
+                                            "5": {
+                                                "objectClass": "MindNode",
+                                                "text": "规范标准化",
+                                                "ID": "HEAR0"
+                                            },
+                                            "1": {
+                                                "objectClass": "MindNode",
+                                                "text": "直线监督",
+                                                "ID": "M6827"
+                                            },
+                                            "objectClass": "NSArray",
+                                            "2": {
+                                                "objectClass": "MindNode",
+                                                "text": "工作程序标准化",
+                                                "ID": "2NP81"
+                                            }
+                                        },
+                                        "text": "六种基本协调机制"
+                                    },
+                                    "2": {
+                                        "objectClass": "MindNode",
+                                        "text": "组织结构七种形态",
+                                        "ID": "4AE0C"
+                                    }
+                                },
+                                "text": "明茨伯格：管理本质的协调研究"
+                            }
+                        },
+                        "text": "现代管理流派"
+                    }
+                },
+                "text": "历史演变"
+            },
+            "animationDisable": true
+        }
+    },
+    "style": 400,
+    "root": {
+        "ID": "Y7X32",
+        "rootPoint": {
+            "objectClass": "CGPoint",
+            "x": 1074.5,
+            "y": 554
+        },
+        "children2": {
+            "objectClass": "NSArray",
+            "0": {
+                "isLeft": true,
+                "ID": "280Y4",
+                "objectClass": "MindNode",
+                "children": {
+                    "3": {
+                        "remark": "基本方法",
+                        "isLeft": true,
+                        "remarkDisplay": true,
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "ID": "P7C14",
+                                "maxWidthLine": 320.5,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "把握理论体系，理解基本原则、方法与工具"
+                            },
+                            "1": {
+                                "ID": "62K50",
+                                "maxWidthLine": 222.5,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "观察和分析工作中的管理问题"
+                            }
+                        },
+                        "text": "理论联系实际",
+                        "objectClass": "MindNode",
+                        "ID": "O5I80"
+                    },
+                    "1": {
+                        "isLeft": true,
+                        "ID": "4MSJ6",
+                        "markType": 1029,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "ID": "GP4W0",
+                                "maxWidthLine": 451,
+                                "markType": 1003,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "抽象一般规律，指导实践运用，分析时代特征，预测未来发展"
+                            },
+                            "1": {
+                                "ID": "K86U3",
+                                "markType": 1001,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "一般理论与具体特点相结合"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "rootPoint": {
+                                    "objectClass": "CGPoint",
+                                    "x": 244,
+                                    "y": 467
+                                },
+                                "markType": 1020,
+                                "isLeft": true,
+                                "style": "[{\"value\":5,\"key\":\"fontsize\",\"end\":5,\"start\":0},{\"key\":\"bold\",\"start\":0,\"end\":5}]",
+                                "text": "马克思主义",
+                                "objectClass": "MindNode",
+                                "ID": "L6UE4",
+                                "linkPaths": {
+                                    "objectClass": "NSArray",
+                                    "0": {
+                                        "ID": "GP4W0",
+                                        "ctrlPoint": {
+                                            "objectClass": "CGPoint",
+                                            "x": 56.326671810672764,
+                                            "y": -7.3967536470076993
+                                        },
+                                        "objectClass": "NodeLinkPath",
+                                        "text": ""
+                                    }
+                                }
+                            },
+                            "2": {
+                                "ID": "284LA",
+                                "markType": 1002,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "环境变化推动发展"
+                            }
+                        },
+                        "text": "理论指导"
+                    },
+                    "objectClass": "NSArray",
+                    "0": {
+                        "isLeft": true,
+                        "ID": "KF4BX",
+                        "markType": 1019,
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "ID": "271P6",
+                                "maxWidthLine": 255,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "指导我们管理实践，提升管理水平"
+                            },
+                            "1": {
+                                "ID": "N5JDD",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "形成理性分析能力"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "ID": "155A5",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "了解管理的一般规律"
+                            },
+                            "2": {
+                                "ID": "KAUOV",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "提升决策、决断的能力"
+                            }
+                        },
+                        "text": "意义"
+                    },
+                    "2": {
+                        "isLeft": true,
+                        "ID": "1F3A1",
+                        "objectClass": "MindNode",
+                        "children": {
+                            "3": {
+                                "ID": "GSJOJ",
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "创新思维"
+                            },
+                            "1": {
+                                "remark": "运用历史眼光认识发展规律",
+                                "ID": "LKJ6N",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "历史思维"
+                            },
+                            "4": {
+                                "remark": "道德、法律的底线；期望的可接受范围",
+                                "ID": "FGSLV",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "底线思维"
+                            },
+                            "objectClass": "NSArray",
+                            "0": {
+                                "remark": "整体的、长期的思维、系统的思维",
+                                "ID": "5V3Q3",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "战略思维"
+                            },
+                            "2": {
+                                "remark": "矛盾的观点。",
+                                "ID": "P1140",
+                                "remarkDisplay": true,
+                                "objectClass": "MindNode",
+                                "isLeft": true,
+                                "text": "辩证思维"
+                            }
+                        },
+                        "text": "科学思维"
+                    }
+                },
+                "text": "管理学的学习"
+            }
+        },
+        "objectClass": "MindNode",
+        "children": {
+            "objectClass": "NSArray",
+            "0": {
+                "ID": "5XFR1",
+                "objectClass": "MindNode",
+                "children": {
+                    "1": {
+                        "objectClass": "MindNode",
+                        "text": "一般组织与企业组织",
+                        "ID": "5262W"
+                    },
+                    "objectClass": "NSArray",
+                    "0": {
+                        "objectClass": "MindNode",
+                        "text": "个体活动与群体活动",
+                        "ID": "14G66"
+                    },
+                    "2": {
+                        "ID": "D4A21",
+                        "objectClass": "MindNode",
+                        "children": {
+                            "objectClass": "NSArray",
+                            "0": {
+                                "objectClass": "MindNode",
+                                "text": "五大职能",
+                                "ID": "8M5HR"
+                            }
+                        },
+                        "text": "管理学的研究体系"
+                    }
+                },
+                "text": "管理的的研究对象"
+            },
+            "1": {
+                "ID": "3S0MV",
+                "objectClass": "MindNode",
+                "children": {
+                    "3": {
+                        "objectClass": "MindNode",
+                        "text": "依法治理",
+                        "ID": "182B1"
+                    },
+                    "1": {
+                        "objectClass": "MindNode",
+                        "text": "重人求和思想",
+                        "ID": "75WS5"
+                    },
+                    "objectClass": "NSArray",
+                    "0": {
+                        "objectClass": "MindNode",
+                        "text": "顺道无为思想",
+                        "ID": "3440P"
+                    },
+                    "2": {
+                        "objectClass": "MindNode",
+                        "text": "预谋慎战思想",
+                        "ID": "0D118"
+                    }
+                },
+                "text": "管理学的产生与发展"
+            }
+        },
+        "text": "前言"
+    },
+    "layoutCompact": true,
+    "objectClass": "NSDictionary",
+    "ID": "G4413",
+    "themeColors": {
+        "3": "#37C45A",
+        "4": "#1BD6E7",
+        "0": "#DC306C",
+        "5": "#FFC700",
+        "1": "#BF58F5",
+        "objectClass": "NSArray",
+        "2": "#26BBFF"
+    }
+}
